@@ -3,9 +3,8 @@
  * Created by PhpStorm.
  * User: Jeffrey
  * Date: 2/18/2016
- * Time: 7:17 PM
+ * Time: 7:17 PM.
  */
-
 namespace Game;
 
 class Faction
@@ -15,5 +14,4 @@ class Faction
     const Fascist = 1;
     const Hitler = 2;
     const Viewer = 3;
-
 }
